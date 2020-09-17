@@ -33,10 +33,12 @@ Goals:
   <li>search engine for stock price </li>
   <li>create option to simulate buying and selling stock </li>
   <li>GUI</li>
-      - total value of stocks
-      - diagramm
-      - visualize option for buying and selling stock
-</ol> 
+    <ol>
+      <li> total value of stocks </li>
+      <li> diagramm </li>
+      <li> visualize option for buying and selling stock </li>
+</ol>
+  </ol> 
 ## Contact
 
 If you have any questions about this project, please feel free to contact us.
