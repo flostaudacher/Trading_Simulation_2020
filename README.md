@@ -27,12 +27,12 @@ Trading Simulation:
 
 Goals:
 <ol>
-- set up Github repository
-- specification book
-- create solution to get stock price of specific stock
-- search engine for stock price
-- create option to simulate buying and selling stock
-- GUI :
+  <li> set up Github repository </li>
+  <li>specification book </li>
+  <li>create solution to get stock price of specific stock </li>
+  <li>search engine for stock price </li>
+  <li>create option to simulate buying and selling stock </li>
+  <li>GUI</li>
       - total value of stocks
       - diagramm
       - visualize option for buying and selling stock
