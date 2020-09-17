@@ -1,4 +1,4 @@
-# Project Name
+# Trading Simulator
 
 <br/>
 <p align="center">
@@ -37,7 +37,6 @@ Goals:
 If you have any questions about this project, please feel free to contact us.
 
 florstaudacher - student@tsn.at<br>
-Student name 2 here - student@tsn.at<br>
 HTL Anichstraße - htlinn@tsn.at
 
 <a href="https://htl-anichstrasse.tirol" target="_blank"><img src=".github/logo_background.png" width="180px"></a>
