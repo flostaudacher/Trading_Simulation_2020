@@ -6,10 +6,10 @@
     <img src=".github/htl.gif" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Project Name</h3>
+  <h3 align="center">Trading Simulator</h3>
 
   <p align="center">
-    Enter a short description for the project here
+    Via the program you can simulate Trading with the real stock price!
     <br/>
     <a href="https://github.com/htl-anichstrasse/template/releases">Releases</a>
     ·
@@ -20,24 +20,21 @@
 </p>
 
 ## About the project
-Enter a description about the project, its history and its goals here.
+Trading Simulation:
+===================
 
-## Installation
-
-Enter a step by step explanation for installing this repository on a local machine.
-
-Clone the repository.
-```
-git clone https://github.com/htl-anichstrasse/template.git
-```
-
-Step 2 here
+Goals:
+- set up Github repository
+-specification book
+- create solution to get stock price of specific stock
+- create option to simulate buying and selling stock
+- create graphical interface
 
 ## Contact
 
 If you have any questions about this project, please feel free to contact us.
 
-Stundet name 1 here - student@tsn.at<br>
+florstaudacher - student@tsn.at<br>
 Student name 2 here - student@tsn.at<br>
 HTL Anichstraße - htlinn@tsn.at
 
