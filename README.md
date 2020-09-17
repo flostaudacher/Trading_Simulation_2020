@@ -26,6 +26,7 @@ Trading Simulation:
 ===================
 
 Goals:
+<ol>
 - set up Github repository
 - specification book
 - create solution to get stock price of specific stock
@@ -35,7 +36,7 @@ Goals:
       - total value of stocks
       - diagramm
       - visualize option for buying and selling stock
-   
+</ol> 
 ## Contact
 
 If you have any questions about this project, please feel free to contact us.
