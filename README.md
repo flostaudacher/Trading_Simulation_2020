@@ -29,9 +29,13 @@ Goals:
 - set up Github repository
 - specification book
 - create solution to get stock price of specific stock
+- search engine for stock price
 - create option to simulate buying and selling stock
-- create graphical interface
-
+- GUI :
+      - total value of stocks
+      - diagramm
+      - visualize option for buying and selling stock
+   
 ## Contact
 
 If you have any questions about this project, please feel free to contact us.
