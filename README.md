@@ -20,12 +20,14 @@
 </p>
 
 ## About the project
+Obligated project of the 5th class. Personally I chose to progamm a Trading Simulator. 
+
 Trading Simulation:
 ===================
 
 Goals:
 - set up Github repository
--specification book
+- specification book
 - create solution to get stock price of specific stock
 - create option to simulate buying and selling stock
 - create graphical interface
