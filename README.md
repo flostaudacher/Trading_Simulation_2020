@@ -37,13 +37,13 @@ Goals:
       <li> total value of stocks </li>
       <li> diagramm </li>
       <li> visualize option for buying and selling stock </li>
-</ol>
-  </ol> 
+    </ol>
+</ol> 
 ## Contact
 
 If you have any questions about this project, please feel free to contact us.
 
-florstaudacher - student@tsn.at<br>
+florstaudacher - @tsn.at<br>
 HTL Anichstraße - htlinn@tsn.at
 
 <a href="https://htl-anichstrasse.tirol" target="_blank"><img src=".github/logo_background.png" width="180px"></a>
